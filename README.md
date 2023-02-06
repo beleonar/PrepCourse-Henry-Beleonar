@@ -1,2 +1,1 @@
-# PrepCourse-Henry-Beleonar
-Repositorio de prueba del módulo dos de Henry
+Este proyecto es una prueba de como crear una repositorio y clonarlo desde Github a mi computador
